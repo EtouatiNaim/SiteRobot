@@ -98,6 +98,7 @@ nav
 { 
 	width:100%;
 	background-color:#716B69;
+	
 }
 
 nav li:hover
@@ -105,21 +106,28 @@ nav li:hover
 	background-color:#7b83ff ;
 }
 
-
 div
 {
-	width: 80%;
-	height: 1000px;
-	position:absolute;
-	left: 10%;
+
 	background-color: white;
+	width: 80%;
+	height:1000px;
+	margin: auto;
 	display: flex;
+	flex-direction :column;
+}
+
+.Historique
+{
+	
+	height: 1500px;
+	
 	
 }
 
 .Liens
 {
-	width: 20%;
+	width:20%;
 }
 
 .Nom
@@ -132,11 +140,14 @@ div
 
 section
 {
-	border: black solid 1px;
-	margin: 15px;
-	padding: 15px;
-	position: absolute;
-	width: 1150px;
+	padding: 0px 15px;
+	width: 95%;
+	display: flex;
+	flex-direction : column;
+	flex-wrap: nowrap;
+	margin: auto;
+	margin-bottom:0px;
+	margin-top:5px;
 }
 
 h3
@@ -149,6 +160,23 @@ h3
 
 section p
 {
-	margin: 0px 25px;
+	margin: 2px 20px;
 	font-size: 1.3em;
 }
+
+aside
+{
+	
+}
+
+strong
+{
+	font-weight: bold;
+}
+
+em
+{
+	font-style: italic;
+	text-decoration: underline;
+}
+
