@@ -73,7 +73,6 @@ footer li a
 }
 
 footer h2
-
 {
 	font-family: Georgia;
 }
@@ -126,6 +125,11 @@ nav
 nav li:hover
 { 
 	background-color:#7b83ff ;
+}
+
+footer li:hover
+{
+	text-decoration: underline;
 }
 
 .Liens

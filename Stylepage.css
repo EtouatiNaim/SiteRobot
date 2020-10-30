@@ -50,7 +50,6 @@ footer li a
 }
 
 footer h2
-
 {
 	font-family: Georgia;
 }
@@ -179,3 +178,7 @@ em
 	text-decoration: underline;
 }
 
+footer li:hover 
+{
+	text-decoration: underline;
+}
