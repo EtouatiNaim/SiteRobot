@@ -11,14 +11,14 @@ div p
 	font-size: 2.5em;
 	font-family: Arial;
 	position: relative;
-	left:70px;
+	left:25px;
 	top:225px;
 	text-align:center;
 	font-style: italic;
 	margin:0px;
 }
 
-.Fond
+.Fond     
 {
 	width: 100%;
 	min-height: 575px;
@@ -31,7 +31,7 @@ header
 {
 	width: 100%;
 	display : flex;
-	background-color: #04CDCE;
+	background-color: #4190c2;
 }
 
 .TitrePage
@@ -39,8 +39,8 @@ header
 	font-size:3.0em;
 	font-family: Georgia ;
 	position: relative;
-	top: 10px;
-	left: 2%;
+	top: 20px;
+	left: 35%;
 	color: white;
 	margin: 5px;
 }
@@ -48,8 +48,8 @@ header
 footer
 {
 	width: 100%;
-	min-height: 100px;
-	background-color: #797b8e;
+	min-height:100px;
+	background-color: #8badc3;
 	margin:0px;
 	padding:0px;
 	position: absolute;
@@ -62,6 +62,7 @@ footer ul
 	display: flex;
 	flex-direction:column;
 	color: white;
+	font-size: 15px
 }
 
 footer li a
@@ -69,7 +70,7 @@ footer li a
 	text-align: center;
 	color: white;
 	font-size: 1.3em;
-	text-decoration: none;
+	text-decoration:none;
 }
 
 footer h2
@@ -80,7 +81,7 @@ footer h2
 footer p
 {
 	margin:0px;
-	pdding:0px;
+	padding:1px;
 	font-size: 1.3em;
 }
 
@@ -119,7 +120,7 @@ nav li a
 nav
 { 
 	width:100%;
-	background-color:#716B69;
+	background-color:#9dabb4;
 }
 
 nav li:hover
