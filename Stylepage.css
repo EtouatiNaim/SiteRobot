@@ -161,19 +161,25 @@ div
 
 section
 {
-	padding: 0px 15px;
-	width: 95%;
-	display: flex;
-	flex-wrap: wrap;
 	margin: auto;
 	margin-bottom:0px;
 	margin-top:5px;
+	padding: 0px 15px;
+	width: 95%;
+}
+
+.Historique section
+{
+	
+	display: flex;
+	flex-direction: column;
+	flex-wrap: wrap;
+	
 }
 
 .Histoire
 {
-	display:flex;
-	justify-content: 
+	display:flex; 
 	flex-wrap: nowrap;
 }
 
@@ -238,7 +244,7 @@ tbody tr:nth-child(even)
 {
 	background-color: #f3f3f3;
 }
-<<<<<<< HEAD
+
 .contenu
 { 
 	position: right;
@@ -270,13 +276,6 @@ tbody tr:nth-child(even)
 {
 	height: 2000px;
 }
-=======
-
-.video
-{
-	display: flex;
-	flex-direction: column;
-}
 
 iframe
 {
@@ -287,4 +286,4 @@ iframe
 
 
 
->>>>>>> 9ef6f896a59a5effe982f3422db8588df6984a52
+
