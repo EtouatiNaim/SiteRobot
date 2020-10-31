@@ -191,6 +191,7 @@ footer li:hover
 	cursor: pointer;
 	margin: 100px auto;
 	border: 2px solid midnightblue;
+	margin-top: 20px;
 }
 thead tr
 {
@@ -211,9 +212,34 @@ tbody tr:nth-child(even)
 {
 	background-color: #f3f3f3;
 }
-
-
-
-
-
-
+.contenu
+{ 
+	position: right;
+	width: 800px;
+	padding: 10px;
+	box-sizing: border-box;
+	border-radius: 10px;
+	box-shadow: 0 15px 50px rgba(0,0,0,0.2); 
+	display: flex;
+	flex-direction: row;
+ }
+.Militaires img
+ {
+ 	height:170px;
+ 	display: block; 
+}
+.contain
+{ 
+	position: right;
+	width: 800px;
+	padding: 10px;
+	box-sizing: border-box;
+	border-radius: 10px;
+	box-shadow: 0 15px 50px rgba(0,0,0,0.2); 
+	display: flex;
+	flex-direction: row;
+}
+.Militaires
+{
+	height: 2000px;
+}
