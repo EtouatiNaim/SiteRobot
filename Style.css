@@ -36,13 +36,11 @@ header
 
 .TitrePage
 {
-	font-size:3.0em;
+	font-size:4.0em;
 	font-family: Georgia ;
 	position: relative;
-	top: 20px;
-	left: 35%;
 	color: white;
-	margin: 5px;
+	margin: auto;
 }
 
 footer
