@@ -2,7 +2,7 @@ body
 {
 	margin:0px;
 	padding:0px;
-	background-color:#53ace8;
+	background-color:#254975;
 }
 
 header
@@ -17,10 +17,10 @@ header
 	font-size:3.0em;
 	font-family: Georgia ;
 	position: relative;
-	top: 10px;
-	left: 2%;
+	top: 30px;
+	left: 24%;
 	color: white;
-	margin: 5px;
+	margin: 10px;
 }
 
 footer
@@ -57,7 +57,7 @@ footer h2
 footer p
 {
 	margin:0px;
-	padding:0px;
+	padding:1px;
 	font-size:1.3em;
 }
 #logo
@@ -95,7 +95,7 @@ nav li a
 nav
 { 
 	width:100%;
-	background-color:#716B69;
+	background-color:#9dabb4;
 	
 }
 
