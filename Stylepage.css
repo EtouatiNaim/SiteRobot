@@ -161,13 +161,19 @@ div
 
 section
 {
-	padding: 0px 15px;
-	width: 95%;
-	display: flex;
-	flex-wrap: wrap;
 	margin: auto;
 	margin-bottom:0px;
 	margin-top:5px;
+	padding: 0px 15px;
+	width: 95%;
+}
+
+.Historique section
+{
+	
+	display: flex;
+	flex-wrap: wrap;
+	
 }
 
 .Histoire
