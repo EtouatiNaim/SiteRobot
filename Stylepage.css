@@ -115,10 +115,35 @@ div
 
 .Historique
 {
-	
 	height: 1900px;
-	
-	
+}
+
+.Lesmodèles
+{
+	display: flex;
+}
+
+.modèle
+{
+	margin-top:20px;
+	margin: auto;
+	width:280px;
+	height:200px;
+}
+
+.automate
+{
+	margin: auto;
+	margin-top: 15px;
+	margin-bottom: 25px;
+	width: 260px;
+	text-align: center;
+}
+
+.illustration
+{
+	width: 90%;
+	margin-top:20px;
 }
 
 .Liens
@@ -139,11 +164,17 @@ section
 	padding: 0px 15px;
 	width: 95%;
 	display: flex;
-	flex-direction : column;
-	flex-wrap: nowrap;
+	flex-wrap: wrap;
 	margin: auto;
 	margin-bottom:0px;
 	margin-top:5px;
+}
+
+.Histoire
+{
+	display:flex;
+	justify-content: 
+	flex-wrap: nowrap;
 }
 
 h3
@@ -158,11 +189,6 @@ section p
 {
 	margin: 2px 20px;
 	font-size: 1.3em;
-}
-
-aside
-{
-	
 }
 
 strong
@@ -212,8 +238,18 @@ tbody tr:nth-child(even)
 	background-color: #f3f3f3;
 }
 
+.video
+{
+	display: flex;
+	flex-direction: column;
+}
 
-
+iframe
+{
+	width:560px;
+	height:315px;
+	margin: auto;
+}
 
 
 
