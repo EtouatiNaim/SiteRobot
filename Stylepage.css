@@ -281,4 +281,43 @@ iframe
 	width:560px;
 	height:315px;
 	margin: auto;
+<<<<<<< HEAD
 }
+=======
+}
+
+/* Robots Industriels */
+
+.RobotUnimate {
+	height: 200px;
+	width: 200px;
+	float:left;
+}
+
+.ContenuDbtRob
+{
+	padding: 35px;
+	text-align: center;
+}
+
+.Agricole
+{
+	height:200px;
+	weight:200px;
+	padding: 40px;
+}
+
+.Assemblage 
+{
+	height: 200px;
+	weight: 200px;
+	padding: 40px;
+}
+
+.Alimentaire {
+	height: 200px;
+	weight: 200px;
+	padding: 40px;
+}
+
+>>>>>>> 2400212bc0c98f3432522f724125e399cd7ca655
