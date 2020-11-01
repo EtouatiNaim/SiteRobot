@@ -212,8 +212,7 @@ footer li:hover
 {
 	text-decoration: underline;
 }
-
-/* ROBOTS MILITAIRES*/ 
+ 
 .tableau-style
 {
 	border-collapse: collapse;
@@ -274,7 +273,7 @@ tbody tr:nth-child(even)
 }
 .Militaires
 {
-	height: 2000px;
+	height: 1800px;
 }
 
 iframe
