@@ -323,3 +323,40 @@ iframe
 {
 	height: 1400px
 }
+
+/* robot domestiques */
+
+.dustbot
+{
+	height: 300px;
+	width: 250px;
+	float:left;
+}
+
+.debutdom
+{
+	padding:35px;
+	text-align: center;
+}
+
+.suitedom
+
+{
+	padding:35px;
+	text-align: left;
+}
+
+.roomba
+{
+	height:250px;
+	width:350px;
+	padding:70px;
+}
+
+.robotmix
+{
+	height:300px;
+	width:300px;
+	padding:40px;
+	margin-right: auto;
+}
