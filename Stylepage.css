@@ -115,7 +115,7 @@ div
 
 .Historique
 {
-	height: 1900px;
+	height: auto;
 }
 
 .Lesmodèles
@@ -224,8 +224,7 @@ iframe {
 .tableau-style
 {
 	border-collapse: collapse;
-	min-width: 400px;
-	width: auto;
+	width: 100%;
 	box-shadow: 0 5px 50px rgba(0,0,0,0.15);
 	cursor: pointer;
 	margin: 100px auto;
@@ -260,7 +259,6 @@ tbody tr:nth-child(even)
 .contain
 { 
 	position: right;
-	width: 800px;
 	padding: 10px;
 	box-sizing: border-box;
 	border-radius: 10px;
@@ -270,7 +268,7 @@ tbody tr:nth-child(even)
 }
 .Militaires
 {
-	height: 1800px;
+	height: auto;
 }
 
 /* Robots Industriels */
@@ -324,7 +322,7 @@ tbody tr:nth-child(even)
 
 .Industrie
 {
-	height: 1400px
+	height: auto;
 }
 
 /* robot domestiques */
