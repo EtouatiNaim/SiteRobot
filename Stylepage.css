@@ -285,7 +285,6 @@ tbody tr:nth-child(even)
 .ContenuDbtRob 
 {
 	position: right;
-	width: 1100px;
 	padding: 10px;
 	box-sizing: border-box;
 	border: solid;
@@ -296,7 +295,6 @@ tbody tr:nth-child(even)
 .ContenuDNJ 
 {
 	position: right;
-	width: 1100px;
 	padding: 10px;
 	box-sizing: border-box;
 	border: solid;
