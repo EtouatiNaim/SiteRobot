@@ -337,14 +337,14 @@ tbody tr:nth-child(even)
 .debutdom
 {
 	padding:35px;
-	text-align: center;
+	text-align: left;
 }
 
 .suitedom
 
 {
 	padding:35px;
-	text-align: left;
+	text-align: center;
 }
 
 .roomba
@@ -360,4 +360,9 @@ tbody tr:nth-child(even)
 	width:300px;
 	padding:40px;
 	margin-right: auto;
+}
+
+.domestique
+{
+	height:auto;
 }
