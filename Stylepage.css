@@ -259,6 +259,7 @@ tbody tr:nth-child(even)
 .contain
 { 
 	position: right;
+	width:80%;
 	padding: 10px;
 	box-sizing: border-box;
 	border-radius: 10px;
