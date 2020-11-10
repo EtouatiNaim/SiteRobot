@@ -9,7 +9,7 @@ header
 {
 	width: 100%;
 	display : flex;
-	background-color: #4190c2;
+	background-image: linear-gradient(to right, rgba(54,66,240,0), rgba(25,106,241,1));
 }
 
 .TitrePage
@@ -33,6 +33,7 @@ footer
 	flex-wrap: wrap;
 	border:solid black;
 }
+
 footer ul
 {
 	display: flex;
@@ -59,6 +60,7 @@ footer p
 	padding:1px;
 	font-size:1.3em;
 }
+
 #logo
 {
 	width: 10%;
@@ -95,7 +97,6 @@ nav
 { 
 	width:100%;
 	background-color:#9dabb4;
-	
 }
 
 nav li:hover
@@ -105,7 +106,6 @@ nav li:hover
 
 div
 {
-
 	background-color: white;
 	width: 80%;
 	height:1000px;
@@ -171,11 +171,9 @@ section
 
 .Historique section
 {
-	
 	display: flex;
 	flex-direction: column;
 	flex-wrap: wrap;
-	
 }
 
 .Histoire
@@ -232,16 +230,19 @@ iframe {
 	border: 2px solid midnightblue;
 	margin-top: 20px;
 }
+
 thead tr
 {
 	background-color: midnightblue;
 	color: #fff;
 	text-align: left;
 }
+
 th, td
 {
 	padding: 15px 20px;
 }
+
 tbody tr, td ,th 
 {
 	border: 1px solid #ddd;
@@ -253,10 +254,11 @@ tbody tr:nth-child(even)
 }
 
 .Militaires img
- {
+{
  	height:170px;
  	display: block; 
 }
+
 .contain
 { 
 	position: right;
@@ -268,6 +270,7 @@ tbody tr:nth-child(even)
 	display: flex;
 	flex-direction: row;
 }
+
 .Militaires
 {
 	height: auto;
@@ -316,7 +319,8 @@ tbody tr:nth-child(even)
 	padding: 40px;
 }
 
-.Alimentaire {
+.Alimentaire 
+{
 	height: 200px;
 	width: 250px;
 	padding: 40px;

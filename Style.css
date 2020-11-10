@@ -27,11 +27,12 @@ div p
 	background-repeat: no-repeat;
 	background-color: black;
 }
+
 header
 {
 	width: 100%;
 	display : flex;
-	background-color: #4190c2;
+	background-image: linear-gradient(to right, rgba(54,66,240,0), rgba(25,106,241,1));
 }
 
 .TitrePage
