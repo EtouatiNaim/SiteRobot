@@ -32,7 +32,7 @@ header
 {
 	width: 100%;
 	display : flex;
-	background-image: linear-gradient(to right, rgba(54,66,240,0), rgba(25,106,241,1));
+	background-image: linear-gradient(to right, rgba(12,238,238,1), rgba(12,49,122,1));
 }
 
 .TitrePage
